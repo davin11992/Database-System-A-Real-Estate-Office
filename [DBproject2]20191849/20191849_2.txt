@@ -1,0 +1,14 @@
+delete from property_on_market
+delete from property_sold
+delete from seller
+delete from agent
+delete from buyer
+delete from property_image_map
+delete from image
+drop table property_on_market
+drop table property_sold
+drop table seller
+drop table agent
+drop table buyer
+drop table  property_image_map
+drop table image
